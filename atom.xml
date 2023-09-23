@@ -3,11 +3,11 @@
   <title>悦明星喜</title>
   
   <subtitle>悦明星喜</subtitle>
-  <link href="https://github.com/kailangyue/kailangyue.github.io/atom.xml" rel="self"/>
+  <link href="https://kailangyue.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/kailangyue/kailangyue.github.io/"/>
+  <link href="https://kailangyue.github.io/"/>
   <updated>2023-09-13T12:26:11.121Z</updated>
-  <id>https://github.com/kailangyue/kailangyue.github.io/</id>
+  <id>https://kailangyue.github.io/</id>
   
   <author>
     <name>yue</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/kailangyue/kailangyue.github.io/2023/09/13/hello-world/"/>
-    <id>https://github.com/kailangyue/kailangyue.github.io/2023/09/13/hello-world/</id>
+    <link href="https://kailangyue.github.io/2023/09/13/hello-world/"/>
+    <id>https://kailangyue.github.io/2023/09/13/hello-world/</id>
     <published>2023-09-13T12:26:11.121Z</published>
     <updated>2023-09-13T12:26:11.121Z</updated>
     
